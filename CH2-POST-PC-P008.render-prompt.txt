@@ -1,0 +1,67 @@
+Render CH2-POST-PC-P008 at 1024×1536 pixels as exactly two registered PNG files: IAKESI-CH2-POST-PC-008-art.png and IAKESI-CH2-POST-PC-008-lettering.png.
+ARTWORK FILE — IAKESI-CH2-POST-PC-008-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH2-POST-PC-008-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+Use 4 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+- Narrator: Manga Me is the recurring narrator/host and must follow the canonical Manga Me character sheet.
+- Style Binding: Full-color realistic manga commentary. Manga Me must remain recognizably consistent with his canonical sheet. Recreated production problems may be exaggerated for humor.
+- Production Sheet Binding: Use the Chapter 2 Commentary Production Sheet as the canonical visual reference for speech-balloon examples, layer workflow, regeneration labels, 70/30 style comparisons, style drift, and tool representations.
+- Dramatization: Use whiteboards sparingly. Prefer placing Manga Me inside visual recreations of the production problem.
+- Reader Visible Text: Only dialogue, captions, and explicitly requested diegetic labels are reader-visible. Script page titles, scene labels, production directions, camera notes, asset names, and page numbers are not printed.
+- Print Safety: All faces, dialogue, captions, essential props, and other critical information must remain inside the page-side safe area. Background-only material may extend through trim and bleed.
+- Two File Delivery Binding: Produce exactly two registration-identical PNGs per page: art and lettering. Do not flatten.
+- Lettering: Use professional uppercase comic lettering. Preserve wording and punctuation from the script. One tail per speech-bubble chain; captions have no tail.
+- Page Numbers: Do not render page numbers or folios anywhere in the post-commentary.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Manga Me Character Sheet.png, Assets/CH2_Commentary_Production_Sheet.docx.
+Canonical character identity:
+- Manga Me: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Print-production geometry:
+- Trim rectangle: x=12..1011, y=18..1517.
+- AI RENDER-SAFE TARGET: x=123..838, y=129..1406. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=75..886, y=81..1454; page side=verso; binding side=right.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Panel direction (not printed text): Stage the described production problem visually; reserve deliberate negative space for all dialogue. Do not print script labels, page titles, scene labels, asset names, production notes, or page numbers.
+- Setting: Manga Me stands between two large signs: DIMENSION OF THE GODS and NORMAL WORLDS.
+- Scene: Scene 1
+- Blocking: Keep Manga Me readable as narrator/host when present; preserve clear eyelines and avoid covering faces or essential diagrams with planned lettering.
+- Action: Manga Me stands between two large signs: DIMENSION OF THE GODS and NORMAL WORLDS.
+- Characters: Manga Me.
+- CH2-POST-PC-P008-S01-D01: Manga Me, speech balloon (one speaker tail): “Speech balloons were not the only consistency problem I watched in Chapter 2.”
+
+Panel 2:
+- Panel direction (not printed text): Stage the described production problem visually; reserve deliberate negative space for all dialogue. Do not print script labels, page titles, scene labels, asset names, production notes, or page numbers.
+- Setting: Under DIMENSION OF THE GODS is a target card reading 70% PHOTOREALISTIC / 30% MANGA. Under NORMAL WORLDS is a conventional manga-style example.
+- Scene: Scene 2
+- Blocking: Keep Manga Me readable as narrator/host when present; preserve clear eyelines and avoid covering faces or essential diagrams with planned lettering.
+- Action: Under DIMENSION OF THE GODS is a target card reading 70% PHOTOREALISTIC / 30% MANGA. Under NORMAL WORLDS is a conventional manga-style example.
+- Characters: Manga Me.
+- CH2-POST-PC-P008-S02-D01: Manga Me, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Manga Me: “DOTG scenes were supposed to use a seventy-thirty photorealistic-to-manga style.” -> “Normal worlds were supposed to look like conventional manga.”
+
+Panel 3:
+- Panel direction (not printed text): Stage the described production problem visually; reserve deliberate negative space for all dialogue. Do not print script labels, page titles, scene labels, asset names, production notes, or page numbers.
+- Setting: Manga Me adjusts a large imaginary dial labeled 70 / 30. The dial immediately wobbles away from the setting.
+- Scene: Scene 3
+- Blocking: Keep Manga Me readable as narrator/host when present; preserve clear eyelines and avoid covering faces or essential diagrams with planned lettering.
+- Action: Manga Me adjusts a large imaginary dial labeled 70 / 30. The dial immediately wobbles away from the setting.
+- Characters: Manga Me.
+- CH2-POST-PC-P008-S03-D01: Manga Me, speech balloon (one speaker tail): “The problem is that seventy-thirty is not a calibrated dial.”
+
+Panel 4:
+- Panel direction (not printed text): Stage the described production problem visually; reserve deliberate negative space for all dialogue. Do not print script labels, page titles, scene labels, asset names, production notes, or page numbers.
+- Setting: Manga Me watches the dial continue to wobble.
+- Scene: Scene 4
+- Blocking: Keep Manga Me readable as narrator/host when present; preserve clear eyelines and avoid covering faces or essential diagrams with planned lettering.
+- Action: Manga Me watches the dial continue to wobble.
+- Characters: Manga Me.
+- CH2-POST-PC-P008-S04-D01: Manga Me, speech balloon (one speaker tail): “ChatGPT and I did not always agree on what seventy-thirty looked like.”
+
+Story lettering rule: use exactly the 5 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH2-POST-PC-008-art.png and IAKESI-CH2-POST-PC-008-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
